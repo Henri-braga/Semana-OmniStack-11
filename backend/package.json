@@ -4,7 +4,8 @@
   "description": "Esse modulo do projeto sera responsavel por prover o backend da aplicacao. ",
   "main": "app.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "dev": "nodemon src/server.js"
   },
   "repository": {
     "type": "git",
