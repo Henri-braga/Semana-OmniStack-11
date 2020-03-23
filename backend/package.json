@@ -1,0 +1,22 @@
+{
+  "name": "backendd-semana-omnistack-11",
+  "version": "1.0.0",
+  "description": "Esse modulo do projeto sera responsavel por prover o backend da aplicacao. ",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Henri-braga"
+  },
+  "keywords": [
+    "Semana-omnistack-11",
+    "Rocketseat"
+  ],
+  "author": "Henrique Braga Leao",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
